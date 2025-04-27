@@ -1,4 +1,4 @@
-# uploaded-figma
+
 
 This project was created using Figma. It showcases a design exported and uploaded to GitHub.
 
